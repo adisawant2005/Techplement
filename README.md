@@ -1,5 +1,5 @@
 # Techplement AWS Internship
-This is a Repo created for “Techplement" Internship tasks
+This is a Repo created for *Techplement* Internship tasks
 
 ##🚀 *Techplement Internship Week 1 Task* 🚀
 
