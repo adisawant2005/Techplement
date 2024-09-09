@@ -7,7 +7,11 @@ This week, I completed the deployment of a monolithic architecture by setting up
 References: [Ubuntu Tutorials](https://ubuntu.com/tutorials/install-and-configure-wordpress#9-thats-all) , ChatGPT etc.<br />
 <br />
 
-![Video of wordpress deployment on AWS](https://github.com/user-attachments/assets/1e78d76e-fe5f-4ae4-8330-899ba97d5fad)    <br />
+
+https://github.com/user-attachments/assets/1e78d76e-fe5f-4ae4-8330-899ba97d5fad
+
+
+<br />
 
 <br />
 
